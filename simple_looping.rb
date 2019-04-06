@@ -59,6 +59,6 @@ def for_iterator(number_of_times)
 
   for counter in number_of_times
         puts phrase
-        counter += 1
+        #counter += 1
     end
 end
